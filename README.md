@@ -1,13 +1,9 @@
 # eclipse_debug_Plugin
 Eclipse show variables in a table or tree in debug perspective
-@[TOC](eclipse debug matrix, array, tree plugin)
-
-@[TOC](eclipse debug matrix, array, tree plugin)
-
 # Preface
 
 Recently, there is a need to use eclipse to debug the java matrix, and see that the view as array of pycharm is very useful, as shown below.
-![](https://img-blog.csdnimg.cn/20200929114001692.png)
+![a](https://img-blog.csdnimg.cn/20200929114001692.png)
 
 But I did not find a similar eclipse plug-in on the Internet, so I wrote one by myself and shared it with everyone
 
